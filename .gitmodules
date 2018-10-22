@@ -1,0 +1,3 @@
+[submodule "interficie/cpp-webserver-adapter"]
+	path = interficie/cpp-webserver-adapter
+	url = https://github.com/systelab/cpp-webserver-adapter.git
