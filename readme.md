@@ -1,1 +1,3 @@
-# cpp-boostasio-webserver-adapter #
+# OUTDATED #
+
+This repository is obsolete. The current development has been integrated as a fork of systelab/seed-qt (see https://github.com/jonasrodriguez/cpp-boostasio-webserver-adapter.git).
